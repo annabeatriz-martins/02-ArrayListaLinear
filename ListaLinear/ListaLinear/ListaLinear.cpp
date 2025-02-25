@@ -119,7 +119,6 @@ void buscarElemento()
 			achei++;
 		}
 	}
-	
 	if (achei == 0)
 	{
 		cout << "Elemento não encontrado" << endl;
