@@ -115,7 +115,7 @@ void buscarElemento()
 	{
 		if(lista[n] == numero)
 		{
-			cout << "O numero esta na posicao: " <<  n << endl;
+			cout << "O numero esta na posicao: " << n << endl;
 			achei++;
 		}
 	}
